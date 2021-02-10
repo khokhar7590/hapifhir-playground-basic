@@ -1,4 +1,4 @@
-package Interceptor;
+package interceptor;
 
 import ca.uhn.fhir.rest.client.api.IClientInterceptor;
 import ca.uhn.fhir.rest.client.api.IHttpRequest;
